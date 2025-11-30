@@ -1,0 +1,13 @@
+# WetWell Warrior - Dual Pump Alternation Simulator
+
+
+- Dual pumps with true lead/lag alternation  
+- 60-second anti-short-cycling protection  
+- Realistic inflow swings + sensor noise  
+- Starts pumps at ≤20 ft, shuts off at ≥45 ft  
+
+Run it. It behaves exactly like your plant.
+
+Built by a 23-year Texas Water and wastewater operator who’s done with 2 a.m. calls.
+
+Sample run:  
