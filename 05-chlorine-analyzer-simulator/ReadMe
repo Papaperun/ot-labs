@@ -1,0 +1,13 @@
+# 05-chlorine-analyzer-simulator
+
+Eventually a full auto + Modbus CL17/DR300 simulator (coming when pymodbus stops fighting me).
+
+Right now: total-chlorine training tool 
+
+### DR300_Total_Chlorine_Slider.py
+Run it. Drag the slider. Watch the **exact** pink → purple wheel you use every shift.  
+Zero install. Teaches a new operator in 30 seconds what used to take 30 minutes and a plastic prop.
+
+More coming (auto mode, Modbus, failure scenarios) 
+– Papaperun  
+Texas water 
